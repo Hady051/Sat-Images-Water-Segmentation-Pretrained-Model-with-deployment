@@ -9,7 +9,7 @@
 
 * I applied Min Max Scaler for Normalization instead of dividing by 255 because for some bands, the pixel intensity is above 255.
 
-* * Visualized each band of the images
+* Visualized each band of the images
 
 * Computed water indices to add more band that will be more beneficial for the model to understand the water bodies like:
 *  * **NDWI – Normalized Difference Water Index**
